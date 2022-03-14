@@ -5,6 +5,8 @@ public class TestTut2
 	{
 		System.out.println("This is the new Practice Program...s");
 		
+		System.out.println("Code is working fine ready for Push.");
+		
 	}
 
 }
