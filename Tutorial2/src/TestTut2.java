@@ -11,5 +11,7 @@ public class TestTut2
 	public void m1()
 	{
 		System.out.println("This is the m1 method.");
+		TestTut3 t3 = new TestTut3();
+		t3.m3();
 	}
 }
